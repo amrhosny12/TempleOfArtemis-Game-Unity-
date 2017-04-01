@@ -1,0 +1,9 @@
+
+Make your way to the Museum [Use A-D to run]
+   Press Space to Enter the Museum
+Press Space To Interact With The Frame
+Press Space to Turn On The Switch - Open The Portal -
+Press Space to Begin The Challenge
+Press Space to Exit The Museum
+Your Here!! Make Your Way Into The Temple
+Finally!! Press Space To Complete Your Mission!!  

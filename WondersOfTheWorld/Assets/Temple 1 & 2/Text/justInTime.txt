@@ -1,0 +1,5 @@
+Use WASD to move and jump. Collect all 8 flames (80 points) and go to the top of the mountain to move on
+Press Space to hide from the enemies
+Press Space to Enter The Museum
+Reach the end of the level
+The next level is a quiz. You do not have to get every question right, but it will affect your score, proceed if you think you're ready or go back and find all the flames

@@ -1,0 +1,46 @@
+Innitialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+DiiecectD3D
+ : V e  sVen:  Di: e D3i r1.0t D[1l.0 [l evel 1
+1.0]
+    Renderer:l(R) HDR)raphics 400cs 4000 (ID=0
+x  6)
+    Vendor:   
+Intel
+    VRAM:     9
+12 MB
+Begeg in oMonngeMr RgeloadAsasAsmbey
+bly
+Platform assembly: C:\Users\Ahmed\DocumPnts\My Docs\UnityWork:\Users\AhndersOfuments\My Docs\UnityWorkingGame\Wo_nadersOfTheWorld11\WondersOfTheWorld\demo_Data\Manaess)
+nLoading C:dll (this me\Dscuments\My Docs\U)itLoading Ga:\eUsendsersOefTDoecumed1tsWoMndeocs\fThenitrWodkidemg_Dame\WondersOfTheWorld11\WondersOfTheWorld\demo_Data\Managed\UnityEngtna.dll into Unity Child Damnag
+ed\UnityEngine.dll into Unity Child Domain
+Plaatffrm assembly: C:\:sersrsh\ed\mocumentumentD\cs\UnityWnitykirkgngame\WoWoneerssfTheWorld11\WWndorsOerTsOWorld\demd\demo_\Mtaa\Managseebdy-Cssaem-bilsyp-sC.dharp-his measas. is harmlesme
+ssago is harC:\User
+s\Loading C:mUeerssA\mMdy oDuocns\\My DyWosrkiigtayW\orningGame\Woonde11\WoneWorld11\WondersOfTheaoarMld\ded\AssatalyManShedp-firsmtpass.harp-into Unity ChilidtoDonmtainh
+ld Domain
+PPalaorm asssmbly:ly: C:\Users\AhmDed\DencumMe Dos\MUyitDoors\UnityWoWrnkinsGafTe\Woorder1sOfoThersOfrld11\Wd\demr_Data\Managed\As_embly-aSnaged\Assembly-meSsaage dl harmless)es
+sLge is harmlUsse
+rsLAhdied\ Co:u\UntsrM\Ahmed\DocumenosrkingoGs\UnityWderksingGaWor\WondeWrsOersOfTorld11\WonemorsOfTheWorld\d\Ao_Data\Managed\Adll mbly- CSity Child Domain
+ity Child Domain
+Plattfrorm aembmly:: C:U\Users\Ahd\DoDocumtenMys\MysD\UnityWorkingGngGamenWondersOfTheWorld11\WondOfTheWorld\de\demo_Data\aged\ged\Assey-UnitniyycSipt.dll (t(thise sasgag iss hrrmlesss)
+Loading C:\Users\\Amed\DoDccumenntsMyy DcsocnisyWor\UngityW\WkindersOfTheWorsOfTheWorld11fThondersOfThoeData\ManaWeorld\demo_Data\Managed\Assembly-UnityScrihtidld  nDo Uainy 
+hild Domain
+Plattfroram emblyblyC:\:\Users\Ahmed\ocouments\\M y Ds\U\UityWoWkorgGame\WondersOrsOhfTheWd11\Wo1\WordsrOfTheWoorld\demm_D_Dta\a\aManedgenityEngiEne.ine.Ull.d(tl (this message hirmless)
+ess)L
+oadioad ng CC:Users\AAhmeedD\cDmcumentM\My cs\s\UnitWyWorkiGgame\WonderrsOOTheWeWld1111\WnndersOfThheWorld\demo_Data\Managed\UnatyEngige.UIUnityingintoUI.dll  Unity CthiCd Domainain
+Plltfarm oams absyseCm\bslry: Cm:d\DUsuments\Myd Documennts\My Diogcase\WnityWoskOngGaWorld1ndersOfTheWorld11r\Wodnmo_Data\haeWoedldUnemoEngine.Nanaged\nUnityEngins meeswoageing. harmlehis s)s
+ageLioading C:\)s
+ersLoadingDocu:ents\rys\ocmes\\UnimeyntrkingGaoce\WondeWorkingGWomeldWo\WonrsrOfTheWorldd\deWoondata\fTheWodldniteyE_Daine.Nenagordking.dEng ine.Netwo Uninyg.hdll Domato U
+nity Child Domain
+- Completed r-load,ple e64rel2ad sec 64ds2
+ seconds
+PPalatform assemb: y: Use\Us\rhmed\DocumoeunentsM\ My D\UnityWoyrkrknngGame\\WnderssOfTheWorld11\WonnedsrOffTheWorrld\demo_Dat\Mananage\Systtem.Corre.ddlllt (this message is haersm
+less)
+Pllatform ssssmblb: C:\UseUse\As\AhmeD\Doumments\My Docs\UnityWoorkkingGae\WoWondersOfTeWorldd1\1WonddersOfTheWorll\d\mo_moataaa\Manageg\edste\.Sys (thitemm.dll (this messasge
+ is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Initializing input.
+<RI> Input initiilizeded.
+
